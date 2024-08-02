@@ -1,0 +1,5 @@
+langchain==0.2.1
+langchain-community==0.2.4
+langchain-text-splitters==0.2.0
+chroma==0.2.0 
+pypdf==4.2.0   
